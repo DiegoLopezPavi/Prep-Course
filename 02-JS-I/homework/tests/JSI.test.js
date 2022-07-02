@@ -6,7 +6,7 @@ const {
   nuevaResta,
   nuevaMultiplicacion,
   nuevoModulo,
-  devolverString,
+  devolverstring,
   tienenMismaLongitud,
   sonIguales,
   menosQueNoventa,
